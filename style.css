@@ -62,3 +62,15 @@ footer {
     padding: 25px;
     background: #172337;
 }
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: #172337;
+    color: white;
+}
+
+footer h3 {
+    color: #38bdf8;
+    margin-bottom: 10px;
+}
